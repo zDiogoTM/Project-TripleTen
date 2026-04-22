@@ -1,15 +1,11 @@
-# ProjetoTripleTen
-Projeto Sprint 5
-
-Descrição do Projeto
-Este é um aplicativo web interativo desenvolvido com Streamlit para análise exploratória de dados sobre vendas de carros usados nos Estados Unidos. O objetivo principal do app é permitir uma visualização rápida e intuitiva dos dados por meio de gráficos interativos, facilitando a identificação de padrões e tendências.
-
-Funcionalidades do Aplicativo
-Visualização de Histograma:
-Ao clicar no botão "Criar histograma", o usuário pode visualizar a distribuição da quilometragem (odometer) dos veículos anunciados.
-
-Gráfico de Dispersão:
-O botão "Criar gráfico de dispersão" gera um gráfico interativo que mostra a relação entre a quilometragem (odometer) e o preço (price) dos veículos, ajudando a entender como esses dois fatores se correlacionam.
-
-Link de acesso:
+# TripleTenProject
+Sprint 5 Project
+Project Description
+This is an interactive web application developed with Streamlit for exploratory data analysis of used car sales in the United States. The main objective of the app is to provide a quick and intuitive visualization of the data through interactive charts, facilitating the identification of patterns and trends.
+Application Features
+Histogram Visualization:
+By clicking the "Create histogram" button, the user can visualize the distribution of vehicle mileage (odometer) from the listed advertisements.
+Scatter Plot:
+The "Create scatter plot" button generates an interactive chart that shows the relationship between vehicle mileage (odometer) and price, helping to understand how these two factors correlate.
+Access Link:
 https://projetotripleten.onrender.com
